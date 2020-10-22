@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\王宁\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.linting.pylintEnabled":true,
+    "python.formatting.provider": "yapf",
+    "editor.codeActionsOnSave": null,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "python.linting.enabled": false
+}
